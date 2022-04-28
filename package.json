@@ -1,6 +1,5 @@
 {
   "name": "chat-app-firestore-basic",
-  "homepage": "",
   "version": "0.1.0",
   "private": true,
   "scripts": {
